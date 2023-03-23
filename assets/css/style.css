@@ -1,14 +1,15 @@
+/* * tag for global */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Background color set for background */
 body {
     background-color: #d9dcd6;
 }
 
-
+/* Header properties */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,11 +21,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Color properties for SEO container  */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Properties for header div container */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*Properties for hero img container */
 .hero {
     height: 800px;
     width: 100%;
